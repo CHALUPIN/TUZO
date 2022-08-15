@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "586537432054",
+    "project_id": "tuzombi",
+    "storage_bucket": "tuzombi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586537432054:android:9ab1b53a8b6fd90bc88dd7",
+        "android_client_info": {
+          "package_name": "com.example.tuzo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586537432054-scn6a3pj4g688rfhp3e67j1jf21gdlc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tuzo",
+            "certificate_hash": "9616c105b2285d1f58c59e9c1fd59b28ab4da53f"
+          }
+        },
+        {
+          "client_id": "586537432054-1ri92l40o9kq5l36s4b1m1ihgscthkm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx7fDV0FnvUT8lXnRirY5bbBuRptScAco"
+        },
+        {
+          "current_key": "AIzaSyDR87bYLpJo5fMXmy7FOLuRQD_X8VDmbZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586537432054-1ri92l40o9kq5l36s4b1m1ihgscthkm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586537432054:android:161fded0e9d4721ac88dd7",
+        "android_client_info": {
+          "package_name": "com.example.tuzombi1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586537432054-1ri92l40o9kq5l36s4b1m1ihgscthkm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx7fDV0FnvUT8lXnRirY5bbBuRptScAco"
+        },
+        {
+          "current_key": "AIzaSyDR87bYLpJo5fMXmy7FOLuRQD_X8VDmbZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586537432054-1ri92l40o9kq5l36s4b1m1ihgscthkm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
